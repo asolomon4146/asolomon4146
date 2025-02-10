@@ -24,7 +24,7 @@ Feel free to peruse some of my personal projects.
 
 ### Let's Connect!
 
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/asolomon1/" target="_blank">
+<a href="https://www.linkedin.com/in/asolomon1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
   </a>
 
