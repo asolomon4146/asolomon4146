@@ -2,14 +2,16 @@
 
 Hey there!
 
-My name is Abraham, I'm a bioinformatics graduate student interested in data science, visualization, and pipeline production to advance medical research.
+My name is Abraham, I'm a data scientist and AI engineer at Learnewable. I wear many hats but my most recent projects involved geospatial analysis, building a multi-agent deep research engine, and full stack web development.
+
+With a bachelor's in biochemistry and a master's in bioinformatics, I love all things biological.
+
+My graduate work focused on building pipelines to discover structural variants in long read PacBio WGS of pediatric acute myeloid leukemia patients. The goal was to validate the expeditous nature of long read based structural varient discovery in a cohort of 60 patients.
 
 ### Selected Skills:
 - 🧬 Variant calling 
 - 🏥 Cancer research
 - <img src="https://github.com/asolomon4146/Devicons/blob/main/icons/pacbio/pacbio_icon.png" title="pacbio" alt="pacbio" width="31.25" height="10"/>&nbsp;Long-Read Sequencing
-
-I'm always excited to learn new bioinformatic methods and I'm a big science nerd!
 
 Feel free to peruse some of my personal projects.
 
