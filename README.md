@@ -1,35 +1,34 @@
-## Bioinformatics and Genomics
+# Hey, I'm Abraham 👋
 
-Hey there!
+I'm an AI engineer and data scientist at [Learnewable](https://learnewable.com), where I build tools that help developers site renewable energy projects faster. That means agentic research pipelines, geospatial platforms on Mapbox, and full-stack web development.
 
-My name is Abraham, I'm a data scientist and AI engineer at Learnewable. I wear many hats but my most recent projects involved geospatial analysis, building a multi-agent deep research engine, and full stack web development.
+------------------------------------------------------------------------
 
-With a bachelor's in biochemistry and a master's in bioinformatics, I love all things biological.
+## 🔨 What I've built recently
 
-My graduate work focused on building pipelines to discover structural variants in long read PacBio WGS of pediatric acute myeloid leukemia patients. The goal was to validate the expeditous nature of long read based structural varient discovery in a cohort of 60 patients.
+-   [**Site Scout™ Deep Research**](https://learnewable.com) — a multi-phase agentic pipeline (parallel LLM calls → web search → validation) that generates renewable energy siting feasibility reports
+-   **Site Scout™ Map** — a nationwide Mapbox GL JS geospatial platform scoring county-level renewable siting favorability from zoning, moratoria, and community sentiment data
+-   **Podium** — a public-comment intelligence agent that ingests municipal meeting recordings and extracts stakeholder sentiment via Whisper/Deepgram ASR + speaker diarization
 
-### Selected Skills:
-- 🧬 Variant calling 
-- 🏥 Cancer research
-- <img src="https://github.com/asolomon4146/Devicons/blob/main/icons/pacbio/pacbio_icon.png" title="pacbio" alt="pacbio" width="31.25" height="10"/>&nbsp;Long-Read Sequencing
+------------------------------------------------------------------------
 
-Feel free to peruse some of my personal projects.
+## 🛠️ Stack
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/asolomon4146/Devicons/blob/main/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/asolomon4146/Devicons/blob/main/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/asolomon4146/Devicons/blob/main/icons/shiny/shiny_2022.svg" title="Shiny" alt="Shiny" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/asolomon4146/Devicons/blob/main/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/asolomon4146/Devicons/blob/main/icons/pacbio/pacbio_icon.png" title="pacbio" alt="pacbio" width="120" height="40"/>&nbsp;
-</div>
+<p align="left">
 
-### Let's Connect!
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/></a> <a href="https://www.typescriptlang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> <a href="https://www.r-project.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/></a> <a href="https://git-scm.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
 
-<a href="https://www.linkedin.com/in/asolomon1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
-  </a>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=asolomon4146&style=flat-square&color=blue" alt=""/>
+**Languages:** Python · Laravel · TypeScript · R · SQL · Bash\
+**AI / ML:** Agentic systems · LLM evaluation · RAG · Prompt engineering · PyTorch · TensorFlow\
+**Geo:** Mapbox GL JS · ArcGIS · ArcPy\
+**Tools:** Docker · AWS · Git · FastAPI · Weights & Biases
 
-[//]: # (This is a comment, this syntax can be used when you want to save something in your markdown but don't want it rendered. Note that it is NOT secure.)
+------------------------------------------------------------------------
+
+## 📬 Let's connect
+
+<a href="https://www.linkedin.com/in/asolomon1/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&amp;logoColor=white&amp;style=for-the-badge" alt="LinkedIn"/> </a>
+
+<img src="https://komarev.com/ghpvc/?username=asolomon4146&amp;style=flat-square&amp;color=blue"/>
