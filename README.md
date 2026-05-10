@@ -10,6 +10,8 @@ I'm an AI engineer and data scientist at [Learnewable](https://learnewable.com),
 -   **Site Scout™ Map** — a nationwide Mapbox GL JS geospatial platform scoring county-level renewable siting favorability from zoning, moratoria, and community sentiment data
 -   **Podium** — a public-comment intelligence agent that ingests municipal meeting recordings and extracts stakeholder sentiment via Whisper/Deepgram ASR + speaker diarization
 
+<img width="395.25" height="333" alt="image" src="https://github.com/user-attachments/assets/9e148f3e-e1ba-4b96-81d9-c0b7c236ea42" />
+
 ------------------------------------------------------------------------
 
 ## 🛠️ Stack
