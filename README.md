@@ -1,6 +1,6 @@
 # Hey, I'm Abraham 👋
 
-I lead AI development at [Learnewable](https://learnewable.com), where I build tools that help developers site renewable energy projects faster. That means agentic research pipelines, geospatial analyses, and full-stack web development.
+I lead AI development at [Learnewable](https://learnewable.com), where I build tools that help energy developers site renewable energy projects faster. That means agentic research pipelines, geospatial analyses, and full-stack web development.
 
 ------------------------------------------------------------------------
 
